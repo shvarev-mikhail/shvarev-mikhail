@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+My name is Mikhail Shvarev. 
+I'm an android engineer and I have experience in commercial development since 2015.
 <!--
 **shvarev-mikhail/shvarev-mikhail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
